@@ -3,14 +3,14 @@ Design document
 
 Content:
 1. Introduction
--------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
 2. Concept
   2.1. Introduction
   2.2. Genre
   2.3. Description
   2.4. Key Features
   2.5. Prerequisites for the creation
--------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
 3. Functional Specification
   3.1. Principles of the game
     3.1.1. The essence of the gameplay
@@ -24,6 +24,72 @@ Content:
   3.6. Music
   3.7. Level Design
 4. Contacts
--------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
 
 1. Introduction
+
+It is a concept of my game. In this document, I write all my thoughts about the game.
+--------------------------------------------------------------------------------------------------------------------------
+
+2. Concept
+  2.1. Introduction
+  Quest game with sarcastic humor
+  
+  2.2. Genre
+  - Quest, RPG;
+  - Audience: men, weman aged 16-28;
+  
+  2.3. Description
+  This game is about the vagabond, who fogot his past. Game about our society, its vices and wounds. Everything in the game is submitted in ironic content.
+  
+  2.4. Key Features
+  - A lot of locations
+  - Sarcastic humor
+  - 2.5D Gameplay
+  
+  2.5. Prerequisites for the creation
+  I started creating a game that mocks the vices of society
+--------------------------------------------------------------------------------------------------------------------------
+
+3. Functional Specification
+  3.1. Principles of the game
+    3.1.1. The essence of the gameplay
+    We move between locations, get acquainted with the world and perform quests
+    
+    3.1.2. Storytelling (In Progress...)
+    At the beginning of the game we lie in the mud near the heating main. Our best friends comes to us. We open eyes and see him. He hasn't legs and moves on икщлут wheelchair...
+    After some days, our hero feels good. We get out of the heating main to the surface. And now we get acquainted with the management...
+    During the game we will learn our past...
+   
+  3.2. Charactes
+    3.2.1. Main character
+    - Tramp. He's doesn't have a name. This is a nameless hero, who travels alone in this world.
+    - Vano. He's best friend our nameless hero. He doesn't have legs. Live on a heating main. Most jokes (The joke generator).
+    - Zina. She's fat women. She works as a saleswoman in a "kiosk".
+    
+    3.2.2. Other characters (In Progress...)
+    - The old pope(priest) is addicted to violence in the basement of the church (Sending to the game "Petka and Vasily Ivanovich") 
+    - Crazy revolutionary. He have a line of quests, at the end of which he will burn himself on the square.
+    
+  3.3. Elements of the game (In Progress...)
+  - items in inventory - hepl in the game
+  - NPC - сonversations, issue of quests
+  - map - travel in game world
+    
+  3.4. Game Interface (In Progress...)
+  Interactive game without elements of UI. !!!Help pop-ups  
+  
+  3.5. Graphics and video (In Progress...)
+  - 2.5D graphics in pixel art (not sure)
+  - The predominance of cold tones (grey, white, dirty-green)
+  
+  3.6. Music (In Progress...)
+  
+  
+  3.7. Level Design (In Progress...)
+  - Horizontal movement with the possibility of moving in the vertical (Example: "Valiant hearts: the great war")
+  --------------------------------------------------------------------------------------------------------------------------
+  
+  4. Contacts (In Progress...)
+  
+  
